@@ -3,3 +3,11 @@
 [2023-11-03 04:34:18] [INFO    ] discord.client: logging in using static token
 [2023-11-03 04:34:20] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: ada32ac9b9424215e1a840ab1ede4a87).
 [2023-11-03 04:36:37] [INFO    ] discord.gateway: Shard ID None session has been invalidated.
+[2023-11-03 05:09:58] [DEBUG   ] discord.client: on_ready has successfully been registered as an event
+[2023-11-03 05:09:58] [DEBUG   ] discord.client: on_message has successfully been registered as an event
+[2023-11-03 05:09:58] [INFO    ] discord.client: logging in using static token
+[2023-11-03 05:10:00] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 4fd5356418e8acfdccefd8d3e33d13eb).
+[2023-11-03 17:46:19] [DEBUG   ] discord.client: on_ready has successfully been registered as an event
+[2023-11-03 17:46:19] [DEBUG   ] discord.client: on_message has successfully been registered as an event
+[2023-11-03 17:46:19] [INFO    ] discord.client: logging in using static token
+[2023-11-03 17:46:21] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: e2e151930c0feeb0000d400025ff022b).

@@ -29,10 +29,12 @@ handler.setFormatter(formatter)
 logger.addHandler(handler)
 
 # Main code block for bot function
+# Print success login messages
 @client.event
 async def on_ready():
     print(f'We have logged in as {client.user}')
 
+# Hello world command
 @client.event
 async def on_message(message):
     if message.author == client.user:
@@ -41,4 +43,7 @@ async def on_message(message):
     if message.content.startswith('$hello'):
         await message.channel.send('Hello!')
 
+
+
+# Run bot
 client.run(os.getenv('TOKEN'))
